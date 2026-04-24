@@ -37,6 +37,7 @@
     "webpack-filter-warnings-plugin": "^1.2.1"
   },
   "resolutions": {
-    "json5": "2.2.2"
+    "json5": "2.2.2",
+    "lodash": "4.18.1"
   }
 }
